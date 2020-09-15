@@ -6,7 +6,6 @@
   "scripts": {
     "dev": "next",
     "build": "next build",
-    "deploy": "gh-pages -d build",
     "start": "next start"
   },
   "repository": {
@@ -17,7 +16,7 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://diegotalejandro.github.io/next.js/issues"
+    "url": "https://github.com/diegotalejandro/next.js/issues"
   },
   "homepage": "https://diegotalejandro.github.io/next.js",
   "dependencies": {

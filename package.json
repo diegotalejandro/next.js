@@ -1,0 +1,31 @@
+{
+  "name": "next.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "deploy": "gh-pages -d build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegotalejandro/next.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://diegotalejandro.github.io/next.js/issues"
+  },
+  "homepage": "https://diegotalejandro.github.io/next.js",
+  "dependencies": {
+    "es6-promise": "^4.2.8",
+    "gh-pages": "^3.1.0",
+    "isomorphic-fetch": "^2.2.1",
+    "next": "^9.5.3",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
